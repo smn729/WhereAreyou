@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2EA5031-8CD5-44E7-867D-6122F0597D74</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WhereAreYou</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4F2D3120-0646-4DF4-9D27-2DAB469A6910</key>
+		<string>https://github.com/smn729/WhereAreyou.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WhereAreYou.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4F2D3120-0646-4DF4-9D27-2DAB469A6910</key>
+		<string>..</string>
+		<key>CBB97DC9-F58E-4426-8903-3E0C92ECFA5F</key>
+		<string>../whereAreYou</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/smn729/WhereAreyou.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4F2D3120-0646-4DF4-9D27-2DAB469A6910</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBB97DC9-F58E-4426-8903-3E0C92ECFA5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>whereAreYou</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F2D3120-0646-4DF4-9D27-2DAB469A6910</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WhereAreyou-git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
